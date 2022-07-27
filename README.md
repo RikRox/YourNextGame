@@ -29,6 +29,10 @@ You have a search bar to enter the name of a game. You are presented with Your s
 
 ## Assets
 
-The URL is: https://samkarp700.github.io/product-project/
+The URL from the group repo is: https://samkarp700.github.io/product-project/
 
-Repository located at: https://github.com/samkarp700/product-project
+Group Repository located at: https://github.com/samkarp700/product-project
+
+My repository located at: https://rikrox.github.io/YourNextGame/
+
+The URL from my repository is: https://rikrox.github.io/YourNextGame/
