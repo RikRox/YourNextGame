@@ -23,7 +23,7 @@ THEN I am presented with games that I may also be interest in
 
 ## About the site
 
-![Gamer](./assets/Capture.PNG)
+![Gamer](./assets/images/Capture.PNG)
 
 You have a search bar to enter the name of a game. You are presented with Your search result which includes (game name, genre, description and rating). You also have two suggested games that you may also like.
 
